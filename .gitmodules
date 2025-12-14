@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:GabrielBRS/kesher-ortzion-client.git
+[submodule "server"]
+	path = server
+	url = git@github.com:GabrielBRS/kesher-ortzion-server.git
+[submodule "database"]
+	path = database
+	url = git@github.com:GabrielBRS/kesher-ortzion-database.git
